@@ -17,6 +17,8 @@ original source data:  https://www.kaggle.com/datasets/sharatsachin/criteo-attri
 4. Run mta-project.ipynb    
 5. `streamlit run app.py`  
 
-Live demo link coming soon (or run it yourself in 20 seconds!)
+## Screen shots
+<img width="3374" height="1008" alt="image" src="https://github.com/user-attachments/assets/b2170660-841f-4a08-b60e-92da737c828d" />
+
 
 Built by James Hopper – 17+ years scaling analytics at FOX, The Arena Group, Hearst, iHeartMedia.
