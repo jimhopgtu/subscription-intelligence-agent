@@ -19,6 +19,7 @@ original source data:  https://www.kaggle.com/datasets/sharatsachin/criteo-attri
 
 ## Screen shots
 <img width="3374" height="1008" alt="image" src="https://github.com/user-attachments/assets/b2170660-841f-4a08-b60e-92da737c828d" />
-
+<img width="3383" height="795" alt="image" src="https://github.com/user-attachments/assets/5bd289f7-982d-40c9-a94f-989108ff8a01" />
+<img width="3356" height="1340" alt="image" src="https://github.com/user-attachments/assets/b85a228c-a547-4443-a038-45bb0d9562e9" />
 
 Built by James Hopper – 17+ years scaling analytics at FOX, The Arena Group, Hearst, iHeartMedia.
